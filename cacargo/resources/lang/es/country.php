@@ -1,0 +1,15 @@
+<?php
+  return [
+    'countries'         => 'Listado de paises',
+    'name'              => 'Nombre del pais',
+    'create'            => 'Creación de paises',
+    'edit'              => 'Edición de paises',
+    'view'              => 'Ver Pais',
+    'list'              => 'Listado de paises',
+    'notFound'          => 'El pais no se encontro',
+    'deleted'           => 'El pais <span class="dialog-name">:name</span> (<span class="dialog-id">:code</span>) se elimino con exito',
+    'created'           => 'El pais <span class="dialog-name">:name</span> (<span class="dialog-id">:code</span>) se creo con exito',
+    'updated'           => 'El pais <span class="dialog-name">:name</span> (<span class="dialog-id">:code</span>) se actualizo con exito',
+    // Se utilizan en javascript
+    'delete'            => '¿Desea eliminar el pais <span class=\"dialog-name\">${country.name}</span> (<span class=\"dialog-id\">${country.id}</span>)?'
+  ];

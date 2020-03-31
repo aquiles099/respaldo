@@ -1,0 +1,36 @@
+<?php
+
+return [
+  'code'                  => 'Codigo',
+  'list'                  => 'Listado de Prealertas',
+  'order_service'         => 'Orden de Servicio',
+  'store'                 => 'Origen',
+  'value'                 => 'Valor',
+  'content'               => 'Contenido',
+  'created_at'            => 'Creado',
+  'user'                  => 'Usuario',
+  'edition'               => 'Edicion de Prealertas',
+  'service_order'         => 'Orden de Servicio',
+  'package'               => 'Paquete',
+  'edit'                  => 'Editar Prealerta',
+  'courier'               => 'Transportista',
+  'infoprovider'          => 'Origen de su Paquete (Transportista, Familiar, Externo, Amazon, Ebay, Otro)',
+  'infoorder'             => 'Codigo suministrado por el vendedor',
+  'associatedfile'        => 'Archivo Asociado',
+  'infovalue'             => 'Valor del Paquete (Exprese en dolares)',
+  'date_arrived'          => 'Llegada Estimada',
+  'notificationsprealert' => 'Al cargar un archivo nuevo sera reemplazado el existente',
+  'actions'               => 'Acciones',
+  'provider'              => 'Proveedor',
+  'deletep'               => 'Borrar Prealerta',
+  'view'                  => 'Ver Prealerta',
+  'deletefile'            => 'Borrar Archivo',
+  'unknown'               => 'Desconocido',
+  'notFile'               => 'Archivo no encontrado',
+  'notFound'              => 'La prealerta no ha sido encontrada',
+  'deleted'               => 'La prealerta <span class="dialog-name">:code</span> asociada con el paquete <span class="dialog-name">:package</span> se elimino con exito',
+  'created'               => 'Se ha prealertado un paquete con order de servicio <span class="dialog-name">:order_service</span>',
+  'updated'               => 'La prealerta <span class="dialog-name">:code </span> se ha actualizado con exito',
+  // Se utilizan en javascript
+  'delete'               => '¿Desea eliminar la prealerta <span class=\"dialog-name\">${prealert.code}</span>?'
+];
