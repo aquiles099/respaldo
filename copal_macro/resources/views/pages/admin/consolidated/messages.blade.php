@@ -1,0 +1,1 @@
+<script type='text/javascript'>  var messages = {    delete : "{!!trans('consolidated.delete')!!}"  };  var messagess = {    delete : "{!!trans('consolidated.deletePackageConsolidated')!!}"  };  var table = {    delete : "{!!trans('messages.delete')!!}"  };</script>

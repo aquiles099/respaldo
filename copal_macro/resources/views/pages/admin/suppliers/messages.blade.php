@@ -1,0 +1,1 @@
+<script type='text/javascript'>  var messages = {    delete : "{!!trans('suppliers.delete')!!}"  };</script>
