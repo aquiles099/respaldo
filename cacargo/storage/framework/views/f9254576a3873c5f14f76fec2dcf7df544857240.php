@@ -1,1 +1,0 @@
-<script type='text/javascript'>  var messages = {    delete : "<?php echo trans('country.delete'); ?>"  };</script>
