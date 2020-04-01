@@ -1,0 +1,1 @@
+<?phpuse App\Models\Admin\Configuration;    /**    * Se asigna logo al sistema    */    $configuration = Configuration::find(1);    $code_users = $configuration->prefix;    $lang = $configuration->language;?><script type='text/javascript'>  var messages = {    delete : "{!!trans('promotion.delete')!!}",    language : "{!!$lang!!}"  };</script>
