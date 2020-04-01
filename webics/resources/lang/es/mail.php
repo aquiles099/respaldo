@@ -1,0 +1,25 @@
+<?php
+return [
+  'mails'           => 'Correos Enviados',
+  'new'             => 'Nuevo Correo',
+  'created_user'    => 'Usuario creado en Admin-ICS',
+  'created_notice'  => 'El usuario :name ha creado una noticia en Admin-ICS',
+  'published_notice'=> 'Noticia Publicada por :name',
+  'subject'         => 'Asunto',
+  'info'            => 'Informacion del Correo',
+  'email'           => 'Correo',
+  'userinfo'        => 'Informacion de Usuario',
+  'message'         => 'Mensaje',
+  'general'         => 'General',
+  'admin'           => 'Administrador',
+  'sendto'          => 'Enviado A',
+  'date'            => 'Fecha',
+  'notsend'         => 'Correo no Enviado',
+  'sendby'          => 'Enviado Por',
+  'created_at'      => 'Creado',
+  'notFound'        => 'El Correo no se encontró',
+  'deleted'         => 'El Correo enviado a <strong>:email</strong> se eliminó con exito',
+  'created'         => 'El Correo <strong>:code</strong> se creó con exito',
+  'updated'         => 'El Correo <strong>:code</strong> se actualizó con exito',
+  'delete'          => '¿Desea Eliminar el correo enviado a <strong>${mail.email}</strong>?'
+];

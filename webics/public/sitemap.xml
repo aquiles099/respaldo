@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://internationalcargosystem.com/sitemap.xml"  xmlns:image="http://internationalcargosystem.com/dist/img/favicon.png" >
+  <url>
+    <loc>http://internationalcargosystem.com/</loc>
+  </url>
+  <image:image>
+   <image:loc>http://internationalcargosystem.com/dist/img/favicon.png</image:loc>
+   <image:caption>ICS | International Cargo System</image:caption>
+</image:image>
+</urlset>

@@ -1,0 +1,1 @@
+"use strict";$(document).on("ready",function(){});var contactDelete=function(element,from){try{var contact=getItem(element)||getItemFromParent(element);void 0!=contact&&bootbox.confirm(eval(msg(messages.delete)),function(t){t&&doForm("./admin/contacts/"+contact.id,"delete",void 0,void 0===from||from)})}catch(t){log(t)}};

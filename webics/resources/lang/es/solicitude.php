@@ -1,0 +1,26 @@
+<?php
+return [
+  'solicitudes'    => 'Solicitudes',
+  'new'            => 'Nueva',
+  'list'           => 'Solicitudes',
+  'newsolicitude'  => 'Nueva Solicitud',
+  'code'           => 'Codigo',
+  'subject'        => 'Asunto',
+  'email'          => 'Correo',
+  'viewcontactdata'=> 'Ver Informacion del Solicitante',
+  'created_at'     => 'Creado',
+  'client'         => 'Cliente',
+  'profile'        => 'Perfil',
+  'Exception'      => 'Ups..!! Se ha detectado un error al notificar solicitud, vuelva a itentarlo',
+  'datasolicitude' => 'Datos de la solicitud',
+  'testsolicitudes'=> 'Solicitudes de Prueba',
+  'status'         => 'Status',
+  'notFound'       => 'La solicitud no se encontro',
+  'deleted'        => 'La solicitud <strong> :code </strong> se elimino con exito',
+  'created'        => 'La solicitud <strong> :code </strong> se creo con exito',
+  'updated'        => 'La solicitud <strong> :code </strong>se actualizo con exito',
+  'delete'         => '¿Desea eliminar la Solicitud <strong>${solicitude.code}</strong>?',
+  'test'           => '¿Desea añadir la Solicitud <strong>${solicitude.code}</strong> a pruebas?',
+  'contrated'      => 'La solicitud <strong> :code </strong> ya se ha contratado',
+  'tested'         => 'La solicitud <strong> :code </strong> ya se ha agregado a pruebas'
+];
